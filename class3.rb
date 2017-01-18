@@ -23,4 +23,8 @@ class TestMindskata < Minitest::Test
 	def test_function_return_string_minds
 		assert_equal("minds",minedmindskata(5))
 	end
+
+	def test_function_return_7
+		assert_equal(7,minedmindskata(7))
+	end
 end
