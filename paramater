@@ -1,0 +1,7 @@
+def minedmindskate(parameter1)
+if parameter1==3
+    "mined"
+    else
+    parameter1
+    end
+end
