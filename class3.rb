@@ -27,4 +27,9 @@ class TestMindskata < Minitest::Test
 	def test_function_return_7
 		assert_equal(7,minedmindskata(7))
 	end
+
+	def test_function_return_13
+		assert_equal(13,minedmindskata(13))
+	end
+
 end
