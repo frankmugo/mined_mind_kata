@@ -13,4 +13,10 @@ end
 
 
 end
+
+	def test_1_plus_1_returns_2
+		assert_equal(6,add(2,2))
+
+end
+
 end
